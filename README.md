@@ -37,7 +37,8 @@ plt.ylabel('Student name')
 plt.show()
 ```
 ## Output
-<img width="872" height="730" alt="image" src="https://github.com/user-attachments/assets/2cc0ddb2-2cad-4df4-9c15-cef71e66fa70" /> 
+<img width="921" height="718" alt="image" src="https://github.com/user-attachments/assets/c5235c3a-e084-4b0d-a10a-164ba93bf397" />
+
 ```
 student=['A','B','C','D']
 attendence=[90,85,73,88]
@@ -83,7 +84,8 @@ plt.legend()
 plt.show()
 ```
 ## Output
-![Uploading image.png…]()
+<img width="1354" height="707" alt="image" src="https://github.com/user-attachments/assets/116f0ef7-357c-4210-ba25-ae76e9c06663" />
+
 
 
 ```
